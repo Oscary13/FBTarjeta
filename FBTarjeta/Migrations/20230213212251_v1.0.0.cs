@@ -2,7 +2,7 @@
 
 namespace FBTarjeta.Migrations
 {
-    public partial class TablaTrajetas : Migration
+    public partial class v100 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

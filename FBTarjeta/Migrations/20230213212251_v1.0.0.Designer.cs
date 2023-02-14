@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FBTarjeta.Migrations
 {
     [DbContext(typeof(AplicationDbContext))]
-    [Migration("20230209223928_TablaTrajetas")]
-    partial class TablaTrajetas
+    [Migration("20230213212251_v1.0.0")]
+    partial class v100
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
